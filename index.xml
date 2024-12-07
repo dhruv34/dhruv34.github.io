@@ -1,0 +1,39 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhruv Adha</title>
+    <link>https://dhruv34.github.io/</link>
+    <description>Recent content on Dhruv Adha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 16:58:26 -0500</lastBuildDate>
+    
+        <atom:link href="https://dhruv34.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Aboutme</title>
+        <link>https://dhruv34.github.io/posts/aboutme/</link>
+        <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
+        
+        <guid>https://dhruv34.github.io/posts/aboutme/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/posts/aboutme/ -&lt;p&gt;Hello&lt;/p&gt;
+- https://dhruv34.github.io/posts/aboutme/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Book Recommendations</title>
+        <link>https://dhruv34.github.io/posts/bookrecs/</link>
+        <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
+        
+        <guid>https://dhruv34.github.io/posts/bookrecs/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/posts/bookrecs/ -&lt;p&gt;Hello&lt;/p&gt;
+- https://dhruv34.github.io/posts/bookrecs/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
