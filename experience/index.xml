@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Dhruv Adha</title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on Dhruv Adha</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2024 16:58:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goldman Sachs | Summer Analyst</title>
+      <link>http://localhost:1313/experience/goldman/</link>
+      <pubDate>Fri, 16 Aug 2024 16:58:26 -0500</pubDate>
+      <guid>http://localhost:1313/experience/goldman/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Automated the applied margin calculation process for syndicated loans within Investment Banking Engineering.&lt;/li&gt;&#xA;&lt;li&gt;Designed a domain specific language with ANTLR4 for parsing and communicating 100+ credit agreements.&lt;/li&gt;&#xA;&lt;li&gt;Developed an end-to-end application for the GS Digital Loan Agent using TypeScript, React, and Next.js.&lt;/li&gt;&#xA;&lt;li&gt;Led collaboration with the Investment Banking Operations team to design the loans pricing grid with Figma.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>John Deere | MLOps Engineer</title>
+      <link>http://localhost:1313/experience/johndeere/</link>
+      <pubDate>Fri, 03 May 2024 16:58:26 -0500</pubDate>
+      <guid>http://localhost:1313/experience/johndeere/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Built a scalable data pipeline architecture leveraging AWS CloudFormation, SNS queues, and S3 buckets.&lt;/li&gt;&#xA;&lt;li&gt;Developed REST APIs to provide analytics insights for data science teams using Java and Python.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced customer request management using Databricks and distributed computing.&lt;/li&gt;&#xA;&lt;li&gt;Led testing efforts for MLOps products, creating and executing 200+ unit tests with Pytest-mock.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>UKG | Software Engineering Intern</title>
+      <link>http://localhost:1313/experience/ukg/</link>
+      <pubDate>Fri, 18 Aug 2023 16:58:26 -0500</pubDate>
+      <guid>http://localhost:1313/experience/ukg/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Streamlined data-streaming applications for workforce management using Kotlin and Spring Boot.&lt;/li&gt;&#xA;&lt;li&gt;Optimized Apache Kafka event consumption, reducing the Data Store team’s storage requirements by 45%.&lt;/li&gt;&#xA;&lt;li&gt;Managed production deployments using Kubernetes for orchestration and Docker for containerization.&lt;/li&gt;&#xA;&lt;li&gt;Developed 50+ test cases for the job history application using TestRails and Kotlin after reaching out to clients.&lt;/li&gt;&#xA;&lt;li&gt;Streamlined error identification by writing Kibana log search aggregations for internal developer use.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

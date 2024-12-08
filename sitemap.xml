@@ -5,7 +5,13 @@
     <loc>http://localhost:1313/posts/aboutme/</loc>
     <lastmod>2024-12-06T16:58:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bookrecs/</loc>
+    <loc>http://localhost:1313/bookrecs/beartown/</loc>
+    <lastmod>2024-12-06T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bookrecs/</loc>
+    <lastmod>2024-12-06T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/geo/</loc>
     <lastmod>2024-12-06T16:58:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -13,6 +19,27 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-06T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-12-06T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/subjective/</loc>
+    <lastmod>2024-12-06T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2024-08-16T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/goldman/</loc>
+    <lastmod>2024-08-16T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/johndeere/</loc>
+    <lastmod>2024-05-03T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/emorylab/</loc>
+    <lastmod>2024-05-02T16:58:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/ukg/</loc>
+    <lastmod>2023-08-18T16:58:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

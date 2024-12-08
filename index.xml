@@ -13,25 +13,115 @@
     
     
         <item>
-        <title>Aboutme</title>
+        <title>About Me</title>
         <link>http://localhost:1313/posts/aboutme/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
         <guid>http://localhost:1313/posts/aboutme/</guid>
-        <description>Dhruv Adha http://localhost:1313/posts/aboutme/ -&lt;p&gt;Hi&lt;/p&gt;
+        <description>Dhruv Adha http://localhost:1313/posts/aboutme/ -&lt;p&gt;Hello! My name is Dhruv Adha.&lt;/p&gt;
+&lt;p&gt;I recently graduated from Georgia Tech with a bachelors in Computer Science specializing in Artificial Intelligence and Modeling/Simulation.&lt;/p&gt;
+&lt;p&gt;In my free time, I enjoy reading, working on projects, and watching and playing soccer!&lt;/p&gt;
 - http://localhost:1313/posts/aboutme/ - </description>
         </item>
     
     
     
         <item>
-        <title>Book Recommendations</title>
-        <link>http://localhost:1313/posts/bookrecs/</link>
+        <title>Beartown by Fredrik Backman</title>
+        <link>http://localhost:1313/bookrecs/beartown/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/posts/bookrecs/</guid>
-        <description>Dhruv Adha http://localhost:1313/posts/bookrecs/ -&lt;p&gt;Hello&lt;/p&gt;
-- http://localhost:1313/posts/bookrecs/ - </description>
+        <guid>http://localhost:1313/bookrecs/beartown/</guid>
+        <description>Dhruv Adha http://localhost:1313/bookrecs/beartown/ -&lt;p&gt;Hi&lt;/p&gt;
+- http://localhost:1313/bookrecs/beartown/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Deep Learning Streetview Geolocation</title>
+        <link>http://localhost:1313/projects/geo/</link>
+        <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/projects/geo/</guid>
+        <description>Dhruv Adha http://localhost:1313/projects/geo/ -&lt;p&gt;Hi&lt;/p&gt;
+- http://localhost:1313/projects/geo/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>SubjECTive-QA</title>
+        <link>http://localhost:1313/projects/subjective/</link>
+        <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/projects/subjective/</guid>
+        <description>Dhruv Adha http://localhost:1313/projects/subjective/ -&lt;p&gt;Hi&lt;/p&gt;
+- http://localhost:1313/projects/subjective/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Goldman Sachs | Summer Analyst</title>
+        <link>http://localhost:1313/experience/goldman/</link>
+        <pubDate>Fri, 16 Aug 2024 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/experience/goldman/</guid>
+        <description>Dhruv Adha http://localhost:1313/experience/goldman/ -&lt;ul&gt;
+&lt;li&gt;Automated the applied margin calculation process for syndicated loans within Investment Banking Engineering.&lt;/li&gt;
+&lt;li&gt;Designed a domain specific language with ANTLR4 for parsing and communicating 100+ credit agreements.&lt;/li&gt;
+&lt;li&gt;Developed an end-to-end application for the GS Digital Loan Agent using TypeScript, React, and Next.js.&lt;/li&gt;
+&lt;li&gt;Led collaboration with the Investment Banking Operations team to design the loans pricing grid with Figma.&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/experience/goldman/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>John Deere | MLOps Engineer</title>
+        <link>http://localhost:1313/experience/johndeere/</link>
+        <pubDate>Fri, 03 May 2024 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/experience/johndeere/</guid>
+        <description>Dhruv Adha http://localhost:1313/experience/johndeere/ -&lt;ul&gt;
+&lt;li&gt;Built a scalable data pipeline architecture leveraging AWS CloudFormation, SNS queues, and S3 buckets.&lt;/li&gt;
+&lt;li&gt;Developed REST APIs to provide analytics insights for data science teams using Java and Python.&lt;/li&gt;
+&lt;li&gt;Enhanced customer request management using Databricks and distributed computing.&lt;/li&gt;
+&lt;li&gt;Led testing efforts for MLOps products, creating and executing 200+ unit tests with Pytest-mock.&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/experience/johndeere/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Tumor Grade Detection for ccRCC</title>
+        <link>http://localhost:1313/projects/emorylab/</link>
+        <pubDate>Thu, 02 May 2024 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/projects/emorylab/</guid>
+        <description>Dhruv Adha http://localhost:1313/projects/emorylab/ -&lt;p&gt;Hi&lt;/p&gt;
+- http://localhost:1313/projects/emorylab/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>UKG | Software Engineering Intern</title>
+        <link>http://localhost:1313/experience/ukg/</link>
+        <pubDate>Fri, 18 Aug 2023 16:58:26 -0500</pubDate>
+        
+        <guid>http://localhost:1313/experience/ukg/</guid>
+        <description>Dhruv Adha http://localhost:1313/experience/ukg/ -&lt;ul&gt;
+&lt;li&gt;Streamlined data-streaming applications for workforce management using Kotlin and Spring Boot.&lt;/li&gt;
+&lt;li&gt;Optimized Apache Kafka event consumption, reducing the Data Store team’s storage requirements by 45%.&lt;/li&gt;
+&lt;li&gt;Managed production deployments using Kubernetes for orchestration and Docker for containerization.&lt;/li&gt;
+&lt;li&gt;Developed 50+ test cases for the job history application using TestRails and Kotlin after reaching out to clients.&lt;/li&gt;
+&lt;li&gt;Streamlined error identification by writing Kibana log search aggregations for internal developer use.&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/experience/ukg/ - </description>
         </item>
     
     
