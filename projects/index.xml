@@ -13,21 +13,21 @@
       <link>https://dhruv34.github.io/projects/geo/</link>
       <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
       <guid>https://dhruv34.github.io/projects/geo/</guid>
-      <description>&lt;p&gt;Hi&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Constructed a Street View images dataset of major cities using online datasets and the Google Maps API&lt;/li&gt;&#xA;&lt;li&gt;Used the CLIP zero-shot model as a baseline and tested it for different label parameters&lt;/li&gt;&#xA;&lt;li&gt;Constructed and fine-tuned ResNet, DenseNet, and CNN models, achieving a 81% test accuracy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/dhruv34/geolocationDL&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://dhruv34.github.io/geo.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Report-blue?style=flat-square&amp;amp;logo=microsoftword&amp;amp;logoColor=white&#34; alt=&#34;Report&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://dhruv34.github.io/geoPoster.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Poster-teal?style=flat-square&amp;amp;logo=image&amp;amp;logoColor=white&#34; alt=&#34;Poster&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SubjECTive-QA</title>
       <link>https://dhruv34.github.io/projects/subjective/</link>
       <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
       <guid>https://dhruv34.github.io/projects/subjective/</guid>
-      <description>&lt;p&gt;Hi&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Published paper to NeurIPS and presented findings at the SouthNLP 2024 Symposium.&lt;/li&gt;&#xA;&lt;li&gt;Constructed SubjECTive-QA: a novel dataset of earnings call transcripts for training LLMs in financial analysis.&lt;/li&gt;&#xA;&lt;li&gt;Trained NLP models such as BERT, FinBERT, and RoBERTa using our custom database.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/gtfintechlab/SubjECTive-QA&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://arxiv.org/abs/2410.20651&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Publication-darkblue?style=flat-square&amp;amp;logo=openaccess&amp;amp;logoColor=white&#34; alt=&#34;Publication&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://neurips.cc/virtual/2024/poster/97586&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Poster-teal?style=flat-square&amp;amp;logo=image&amp;amp;logoColor=white&#34; alt=&#34;Poster&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.cc.gatech.edu/news/new-dataset-takes-aim-subjective-misinformation-earnings-calls-and-other-public-hearings&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Article-orange?style=flat-square&amp;amp;logo=medium&amp;amp;logoColor=white&#34; alt=&#34;Article&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tumor Grade Detection for ccRCC</title>
       <link>https://dhruv34.github.io/projects/emorylab/</link>
       <pubDate>Thu, 02 May 2024 16:58:26 -0500</pubDate>
       <guid>https://dhruv34.github.io/projects/emorylab/</guid>
-      <description>&lt;p&gt;Hi&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;PyTorch, Pandas, CUDA, Docker&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a 3D ResNet deep learning model to classify kidney tumor grades using CT scans.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Georgia Tech’s PACE cluster and CUDA to train and deploy models across multiple GPU clusters.&lt;/li&gt;&#xA;&lt;li&gt;Implemented image segmentation on prostate cancer CT scans using OpenCV and Canny edge detection.&lt;/li&gt;&#xA;&lt;li&gt;Researched Docker containerization for medical imaging applications in collaboration with Emory professors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/dhruv34/KidneyData_ISUP&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://dhruv34.github.io/kits.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Report-blue?style=flat-square&amp;amp;logo=microsoftword&amp;amp;logoColor=white&#34; alt=&#34;Report&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

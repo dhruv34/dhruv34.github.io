@@ -23,7 +23,9 @@
 &lt;p&gt;I went to high school in Scottsdale, Arizona but now live in Dublin, OH.&lt;/p&gt;
 &lt;p&gt;In my free time, I enjoy reading, working on projects, and watching and playing soccer!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/dhruv-adha-ba5142215/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;https://github.com/dhruv34&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/dhruv34&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://dhruv34.github.io/resume.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Resume-darkgreen?style=flat-square&amp;amp;logo=adobeacrobatreader&amp;amp;logoColor=white&#34; alt=&#34;Resume&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:dhruv0515@gmail.com&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Email-red?style=flat-square&amp;amp;logo=gmail&amp;amp;logoColor=white&#34; alt=&#34;Email&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 - https://dhruv34.github.io/posts/aboutme/ - </description>
         </item>
     
@@ -35,7 +37,17 @@
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
         <guid>https://dhruv34.github.io/bookrecs/beartown/</guid>
-        <description>Dhruv Adha https://dhruv34.github.io/bookrecs/beartown/ -&lt;p&gt;Hi&lt;/p&gt;
+        <description>Dhruv Adha https://dhruv34.github.io/bookrecs/beartown/ -&lt;p&gt;Probably my go-to recommendation to friends. Backman carves out every character so brilliantly that you end up connecting with each one, even in their worst times. Set in a declining small hockey town in the middle of nowhere, we experience a community stumbling through hard times and yet see depictions of genuine connection. Backman has a brand of magical realism where every character feels real and everything feels like it will work out in the end.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;If you are honest, people may deceive you. Be honest anyway. If you are kind, people may accuse you of selfishness. Be kind anyway. All the good you do today will be forgotten by others tomorrow. Do good anyway. What you create, others can destroy. Create anyway. Because in the end, it is between you and God. It was never between you and anyone else anyway.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;All adults have days when we feel completely drained. When we no longer know quite what we spend so much time fighting for, when reality and everyday worries overwhelm us and we wonder how much longer we’re going to be able to carry on. The wonderful thing is that we can all live through far more days like that without breaking than we think. The terrible thing is that we never know exactly how many.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The simple truth, repeated as often as it is ignored, is that if you tell a child it can do absolutely anything, or that it can’t do anything at all, you will in all likelihood be proven right.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Being a parent makes you feel like a blanket that’s always too small. No matter how hard you try to cover everyone, there’s always someone who’s freezing.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;He never loses control, never gets excited, because you just don’t if you’re always living in the future.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;We devote ourselves to sports because they remind us of how small we are just as much as they make us bigger.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;People sometimes say that sorrow is mental but longing is physical. One is a wound, the other an amputated limb, a withered petal compared to a snapped stem. Anything that grows closely enough to what it loves will eventually share the same roots. We can talk about loss, we can treat it and give it time, but biology still forces us to live according to certain rules: plants that are split down the middle don’t heal, they die.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Hockey is just a silly little game. We devote year after year after year to it without ever really hoping to get anything in return. We burn and bleed and cry, fully aware that the most the sport can give us, in the very best scenario, is incomprehensibly meager and worthless: just a few isolated moments of transcendence. That’s all. But what the hell else is life made of?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Everyone has a thousand wishes before a tragedy, but just one afterward.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The easiest way to unite a group isn’t through love, because love is hard. It makes demands. Hate is simple.&amp;rdquo;&lt;/p&gt;
 - https://dhruv34.github.io/bookrecs/beartown/ - </description>
         </item>
     
@@ -47,7 +59,14 @@
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
         <guid>https://dhruv34.github.io/projects/geo/</guid>
-        <description>Dhruv Adha https://dhruv34.github.io/projects/geo/ -&lt;p&gt;Hi&lt;/p&gt;
+        <description>Dhruv Adha https://dhruv34.github.io/projects/geo/ -&lt;ul&gt;
+&lt;li&gt;Constructed a Street View images dataset of major cities using online datasets and the Google Maps API&lt;/li&gt;
+&lt;li&gt;Used the CLIP zero-shot model as a baseline and tested it for different label parameters&lt;/li&gt;
+&lt;li&gt;Constructed and fine-tuned ResNet, DenseNet, and CNN models, achieving a 81% test accuracy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dhruv34/geolocationDL&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://dhruv34.github.io/geo.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Report-blue?style=flat-square&amp;amp;logo=microsoftword&amp;amp;logoColor=white&#34; alt=&#34;Report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://dhruv34.github.io/geoPoster.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Poster-teal?style=flat-square&amp;amp;logo=image&amp;amp;logoColor=white&#34; alt=&#34;Poster&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 - https://dhruv34.github.io/projects/geo/ - </description>
         </item>
     
@@ -59,7 +78,15 @@
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
         <guid>https://dhruv34.github.io/projects/subjective/</guid>
-        <description>Dhruv Adha https://dhruv34.github.io/projects/subjective/ -&lt;p&gt;Hi&lt;/p&gt;
+        <description>Dhruv Adha https://dhruv34.github.io/projects/subjective/ -&lt;ul&gt;
+&lt;li&gt;Published paper to NeurIPS and presented findings at the SouthNLP 2024 Symposium.&lt;/li&gt;
+&lt;li&gt;Constructed SubjECTive-QA: a novel dataset of earnings call transcripts for training LLMs in financial analysis.&lt;/li&gt;
+&lt;li&gt;Trained NLP models such as BERT, FinBERT, and RoBERTa using our custom database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gtfintechlab/SubjECTive-QA&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2410.20651&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Publication-darkblue?style=flat-square&amp;amp;logo=openaccess&amp;amp;logoColor=white&#34; alt=&#34;Publication&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://neurips.cc/virtual/2024/poster/97586&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Poster-teal?style=flat-square&amp;amp;logo=image&amp;amp;logoColor=white&#34; alt=&#34;Poster&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.cc.gatech.edu/news/new-dataset-takes-aim-subjective-misinformation-earnings-calls-and-other-public-hearings&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Article-orange?style=flat-square&amp;amp;logo=medium&amp;amp;logoColor=white&#34; alt=&#34;Article&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 - https://dhruv34.github.io/projects/subjective/ - </description>
         </item>
     
@@ -115,7 +142,15 @@
         <pubDate>Thu, 02 May 2024 16:58:26 -0500</pubDate>
         
         <guid>https://dhruv34.github.io/projects/emorylab/</guid>
-        <description>Dhruv Adha https://dhruv34.github.io/projects/emorylab/ -&lt;p&gt;Hi&lt;/p&gt;
+        <description>Dhruv Adha https://dhruv34.github.io/projects/emorylab/ -&lt;p&gt;&lt;strong&gt;PyTorch, Pandas, CUDA, Docker&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a 3D ResNet deep learning model to classify kidney tumor grades using CT scans.&lt;/li&gt;
+&lt;li&gt;Utilized Georgia Tech’s PACE cluster and CUDA to train and deploy models across multiple GPU clusters.&lt;/li&gt;
+&lt;li&gt;Implemented image segmentation on prostate cancer CT scans using OpenCV and Canny edge detection.&lt;/li&gt;
+&lt;li&gt;Researched Docker containerization for medical imaging applications in collaboration with Emory professors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dhruv34/KidneyData_ISUP&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://dhruv34.github.io/kits.pdf&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-Report-blue?style=flat-square&amp;amp;logo=microsoftword&amp;amp;logoColor=white&#34; alt=&#34;Report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 - https://dhruv34.github.io/projects/emorylab/ - </description>
         </item>
     
