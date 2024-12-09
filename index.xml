@@ -2,126 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dhruv Adha</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dhruv34.github.io/</link>
     <description>Recent content on Dhruv Adha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2024 16:58:26 -0500</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dhruv34.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>About Me</title>
-        <link>http://localhost:1313/posts/aboutme/</link>
+        <link>https://dhruv34.github.io/posts/aboutme/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/posts/aboutme/</guid>
-        <description>Dhruv Adha http://localhost:1313/posts/aboutme/ -&lt;p&gt;Hello! My name is Dhruv Adha.&lt;/p&gt;
+        <guid>https://dhruv34.github.io/posts/aboutme/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/posts/aboutme/ -&lt;p&gt;Hello! My name is Dhruv Adha.&lt;/p&gt;
 &lt;p&gt;I recently graduated from Georgia Tech with a bachelors in Computer Science specializing in Artificial Intelligence and Modeling/Simulation.&lt;/p&gt;
+&lt;p&gt;I went to high school in Scottsdale, Arizona but now live in Dublin, OH.&lt;/p&gt;
 &lt;p&gt;In my free time, I enjoy reading, working on projects, and watching and playing soccer!&lt;/p&gt;
-- http://localhost:1313/posts/aboutme/ - </description>
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/dhruv-adha-ba5142215/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://github.com/dhruv34&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+- https://dhruv34.github.io/posts/aboutme/ - </description>
         </item>
     
     
     
         <item>
         <title>Beartown by Fredrik Backman</title>
-        <link>http://localhost:1313/bookrecs/beartown/</link>
+        <link>https://dhruv34.github.io/bookrecs/beartown/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/bookrecs/beartown/</guid>
-        <description>Dhruv Adha http://localhost:1313/bookrecs/beartown/ -&lt;p&gt;Hi&lt;/p&gt;
-- http://localhost:1313/bookrecs/beartown/ - </description>
+        <guid>https://dhruv34.github.io/bookrecs/beartown/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/bookrecs/beartown/ -&lt;p&gt;Hi&lt;/p&gt;
+- https://dhruv34.github.io/bookrecs/beartown/ - </description>
         </item>
     
     
     
         <item>
         <title>Deep Learning Streetview Geolocation</title>
-        <link>http://localhost:1313/projects/geo/</link>
+        <link>https://dhruv34.github.io/projects/geo/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/projects/geo/</guid>
-        <description>Dhruv Adha http://localhost:1313/projects/geo/ -&lt;p&gt;Hi&lt;/p&gt;
-- http://localhost:1313/projects/geo/ - </description>
+        <guid>https://dhruv34.github.io/projects/geo/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/projects/geo/ -&lt;p&gt;Hi&lt;/p&gt;
+- https://dhruv34.github.io/projects/geo/ - </description>
         </item>
     
     
     
         <item>
         <title>SubjECTive-QA</title>
-        <link>http://localhost:1313/projects/subjective/</link>
+        <link>https://dhruv34.github.io/projects/subjective/</link>
         <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/projects/subjective/</guid>
-        <description>Dhruv Adha http://localhost:1313/projects/subjective/ -&lt;p&gt;Hi&lt;/p&gt;
-- http://localhost:1313/projects/subjective/ - </description>
+        <guid>https://dhruv34.github.io/projects/subjective/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/projects/subjective/ -&lt;p&gt;Hi&lt;/p&gt;
+- https://dhruv34.github.io/projects/subjective/ - </description>
         </item>
     
     
     
         <item>
         <title>Goldman Sachs | Summer Analyst</title>
-        <link>http://localhost:1313/experience/goldman/</link>
+        <link>https://dhruv34.github.io/experience/goldman/</link>
         <pubDate>Fri, 16 Aug 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/experience/goldman/</guid>
-        <description>Dhruv Adha http://localhost:1313/experience/goldman/ -&lt;ul&gt;
+        <guid>https://dhruv34.github.io/experience/goldman/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/experience/goldman/ -&lt;p&gt;&lt;strong&gt;Python, Javascript, React.js, ANTLR4&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Automated the applied margin calculation process for syndicated loans within Investment Banking Engineering.&lt;/li&gt;
 &lt;li&gt;Designed a domain specific language with ANTLR4 for parsing and communicating 100+ credit agreements.&lt;/li&gt;
 &lt;li&gt;Developed an end-to-end application for the GS Digital Loan Agent using TypeScript, React, and Next.js.&lt;/li&gt;
 &lt;li&gt;Led collaboration with the Investment Banking Operations team to design the loans pricing grid with Figma.&lt;/li&gt;
 &lt;/ul&gt;
-- http://localhost:1313/experience/goldman/ - </description>
+&lt;p&gt;My intern project was to reinvent the existing pricing grid for syndicated loans. The pricing grid tells agents how the interest rate changes as certain key performance indicators (KPIs) are hit by the borrower. The existing pricing grid was depicted as an n-dimenstional matrix for n KPIs. As a result, for more complex credit agreements, the pricing grid would become too complex.&lt;/p&gt;
+&lt;p&gt;In the first two weeks, I worked with my manager a loans agent to develop a rule-based representation of the pricing grid. Then, we used ANTLR4 to create a domain specific language to communicate the rules between systems. With the DSL in place, my task for the remaining of the summer was to create a read-only dashboard expressing the rules and another editable dashboard allowing agents to change the terms.&lt;/p&gt;
+&lt;p&gt;The read-only mode was fairly simple and I completed it in 2 weeks. However, the edit-mode took the remaining of the summer. Front-end programming was new to me so I had to spend time outside of work learning Javascript, ReactJS, and Goldman Sachs&amp;rsquo;s internal UI Toolkit. These tools had to combined with our Python backend to create a complete product. I worked with agents and UX developers to create Figma mock-ups of the dashboards. The major challenge was that each time I had reached a near-finished product, we would come up with new requirements and edge cases. It wasn&amp;rsquo;t until the second-to-last day of the internship that I made my last PR to fix the dashboard. Although I know that the pricing grid will require new changes and evolve over time, I was happy to see my progress through the internship and really enjoyed my experience!&lt;/p&gt;
+- https://dhruv34.github.io/experience/goldman/ - </description>
         </item>
     
     
     
         <item>
         <title>John Deere | MLOps Engineer</title>
-        <link>http://localhost:1313/experience/johndeere/</link>
+        <link>https://dhruv34.github.io/experience/johndeere/</link>
         <pubDate>Fri, 03 May 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/experience/johndeere/</guid>
-        <description>Dhruv Adha http://localhost:1313/experience/johndeere/ -&lt;ul&gt;
+        <guid>https://dhruv34.github.io/experience/johndeere/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/experience/johndeere/ -&lt;p&gt;&lt;strong&gt;Java, Python, AWS, APIs, SQL, Databricks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Built a scalable data pipeline architecture leveraging AWS CloudFormation, SNS queues, and S3 buckets.&lt;/li&gt;
 &lt;li&gt;Developed REST APIs to provide analytics insights for data science teams using Java and Python.&lt;/li&gt;
 &lt;li&gt;Enhanced customer request management using Databricks and distributed computing.&lt;/li&gt;
 &lt;li&gt;Led testing efforts for MLOps products, creating and executing 200+ unit tests with Pytest-mock.&lt;/li&gt;
 &lt;/ul&gt;
-- http://localhost:1313/experience/johndeere/ - </description>
+&lt;p&gt;For most of my junior year, I took a reduced courseload and decided to get some more industry experience before graduating. So, I worked as a part-time engineer in the MLOps team at John Deere, working 10-15 hours per week alongside classes.&lt;/p&gt;
+&lt;p&gt;The first two months of my time was spent working on the CI/CD pipeline of the MLOps team I was placed in. I learned how to use GitHub Workflows and created checks on pull requests before allowing developers to push their code such as checking unit test coverage.&lt;/p&gt;
+&lt;p&gt;I then stepped in to work alongside team members on multiple tasks. This included a data science project using Databricks for distributed computing and building and testing APIs with Postman and Swagger.&lt;/p&gt;
+&lt;p&gt;In the final 2 months, I worked on a larger project: creating an AWS architecture for data science teams to easily engage with a large database. The problem was that developers didn&amp;rsquo;t know when data was updated so they had to repeatedly pull the database whenever they began working. This process would take 30 to 40 minutes and would drain valuable time.&lt;/p&gt;
+&lt;p&gt;To address this, I used AWS CloudFormation to create a system that notifies developers when data was updated. Specifically, I used an API to poll the data source ever so often and when it detects a change, it would send information about that change to a SNS Queue. I then added data science teams&amp;rsquo; Microsoft Teams chats as subscribers to the SNS queue so they receive messages when data is updated. I also used EC2 Instances to process and transform the incoming data changes for efficient consumption and S3 buckets to store data about past updates.&lt;/p&gt;
+- https://dhruv34.github.io/experience/johndeere/ - </description>
         </item>
     
     
     
         <item>
         <title>Tumor Grade Detection for ccRCC</title>
-        <link>http://localhost:1313/projects/emorylab/</link>
+        <link>https://dhruv34.github.io/projects/emorylab/</link>
         <pubDate>Thu, 02 May 2024 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/projects/emorylab/</guid>
-        <description>Dhruv Adha http://localhost:1313/projects/emorylab/ -&lt;p&gt;Hi&lt;/p&gt;
-- http://localhost:1313/projects/emorylab/ - </description>
+        <guid>https://dhruv34.github.io/projects/emorylab/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/projects/emorylab/ -&lt;p&gt;Hi&lt;/p&gt;
+- https://dhruv34.github.io/projects/emorylab/ - </description>
         </item>
     
     
     
         <item>
         <title>UKG | Software Engineering Intern</title>
-        <link>http://localhost:1313/experience/ukg/</link>
+        <link>https://dhruv34.github.io/experience/ukg/</link>
         <pubDate>Fri, 18 Aug 2023 16:58:26 -0500</pubDate>
         
-        <guid>http://localhost:1313/experience/ukg/</guid>
-        <description>Dhruv Adha http://localhost:1313/experience/ukg/ -&lt;ul&gt;
+        <guid>https://dhruv34.github.io/experience/ukg/</guid>
+        <description>Dhruv Adha https://dhruv34.github.io/experience/ukg/ -&lt;p&gt;&lt;strong&gt;Java, Kotlin, Spring Boot, Apache Kafka, Docker, Kubernetes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Streamlined data-streaming applications for workforce management using Kotlin and Spring Boot.&lt;/li&gt;
 &lt;li&gt;Optimized Apache Kafka event consumption, reducing the Data Store team’s storage requirements by 45%.&lt;/li&gt;
 &lt;li&gt;Managed production deployments using Kubernetes for orchestration and Docker for containerization.&lt;/li&gt;
 &lt;li&gt;Developed 50+ test cases for the job history application using TestRails and Kotlin after reaching out to clients.&lt;/li&gt;
 &lt;li&gt;Streamlined error identification by writing Kibana log search aggregations for internal developer use.&lt;/li&gt;
 &lt;/ul&gt;
-- http://localhost:1313/experience/ukg/ - </description>
+&lt;p&gt;This was my first experience in the industry so I set out to learn as much as I can during my time at UKG. I acted as a full-time developer in the Data Source team, working on tickets as they came through for each sprint. I began by making changes to existing applications that used Kotlin with Spring Boot.&lt;/p&gt;
+&lt;p&gt;Then, I worked on making changes to the data streaming architecture, learning about Apache Kafka along the way. Collaborating with other teams, we targetted unnecesary data that were sent through Kafka topics for removal. After this clean-up, we were able to reduce storage requirements by 45%, saving a lot of resources.&lt;/p&gt;
+&lt;p&gt;I jumped unto a task to test the efficacy of UKG&amp;rsquo;s job history application which condenses and organizes an employee&amp;rsquo;s job history. I began by creating unit tests for all cases in the Jira ticket but I knew that it was missing out on many other possibilities. Knowing that UKG&amp;rsquo;s HR department also uses UKG&amp;rsquo;s products, I reached out to the HR team to ensure I accounted for all the possibilities that could arise. At the end, I was able to establish over 50 test cases that thoroughly tested the application.&lt;/p&gt;
+&lt;p&gt;I also participated in the internal UKG hackathon to create aggregations for Kibana logs, helping developers analyze errors. Finally, I pushed some of my code through production, gaining experience in Docker and Kubernetes.&lt;/p&gt;
+- https://dhruv34.github.io/experience/ukg/ - </description>
         </item>
     
     

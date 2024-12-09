@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dhruv Adha</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://dhruv34.github.io/projects/</link>
     <description>Recent content in Projects on Dhruv Adha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2024 16:58:26 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dhruv34.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning Streetview Geolocation</title>
-      <link>http://localhost:1313/projects/geo/</link>
+      <link>https://dhruv34.github.io/projects/geo/</link>
       <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
-      <guid>http://localhost:1313/projects/geo/</guid>
+      <guid>https://dhruv34.github.io/projects/geo/</guid>
       <description>&lt;p&gt;Hi&lt;/p&gt;</description>
     </item>
     <item>
       <title>SubjECTive-QA</title>
-      <link>http://localhost:1313/projects/subjective/</link>
+      <link>https://dhruv34.github.io/projects/subjective/</link>
       <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
-      <guid>http://localhost:1313/projects/subjective/</guid>
+      <guid>https://dhruv34.github.io/projects/subjective/</guid>
       <description>&lt;p&gt;Hi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tumor Grade Detection for ccRCC</title>
-      <link>http://localhost:1313/projects/emorylab/</link>
+      <link>https://dhruv34.github.io/projects/emorylab/</link>
       <pubDate>Thu, 02 May 2024 16:58:26 -0500</pubDate>
-      <guid>http://localhost:1313/projects/emorylab/</guid>
+      <guid>https://dhruv34.github.io/projects/emorylab/</guid>
       <description>&lt;p&gt;Hi&lt;/p&gt;</description>
     </item>
   </channel>

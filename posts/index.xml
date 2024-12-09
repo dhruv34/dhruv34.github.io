@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dhruv Adha</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://dhruv34.github.io/posts/</link>
     <description>Recent content in Posts on Dhruv Adha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2024 16:58:26 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dhruv34.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/aboutme/</link>
+      <link>https://dhruv34.github.io/posts/aboutme/</link>
       <pubDate>Fri, 06 Dec 2024 16:58:26 -0500</pubDate>
-      <guid>http://localhost:1313/posts/aboutme/</guid>
-      <description>&lt;p&gt;Hello! My name is Dhruv Adha.&lt;/p&gt;&#xA;&lt;p&gt;I recently graduated from Georgia Tech with a bachelors in Computer Science specializing in Artificial Intelligence and Modeling/Simulation.&lt;/p&gt;&#xA;&lt;p&gt;In my free time, I enjoy reading, working on projects, and watching and playing soccer!&lt;/p&gt;</description>
+      <guid>https://dhruv34.github.io/posts/aboutme/</guid>
+      <description>&lt;p&gt;Hello! My name is Dhruv Adha.&lt;/p&gt;&#xA;&lt;p&gt;I recently graduated from Georgia Tech with a bachelors in Computer Science specializing in Artificial Intelligence and Modeling/Simulation.&lt;/p&gt;&#xA;&lt;p&gt;I went to high school in Scottsdale, Arizona but now live in Dublin, OH.&lt;/p&gt;&#xA;&lt;p&gt;In my free time, I enjoy reading, working on projects, and watching and playing soccer!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/dhruv-adha-ba5142215/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/dhruv34&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
